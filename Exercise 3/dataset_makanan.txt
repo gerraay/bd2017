@@ -1,0 +1,53 @@
+nasi_putih, sayur_sop, jamur, air_putih
+nasi_putih, sayur_campur, telur_balado, es_teh
+nasi_putih, ikan_patin_bakar, teh_hangat
+bubur_ayam, air_putih
+mie_instant_goreng, air_putih
+nasi_putih, sayur_bayam, tempe, air_putih
+nasi_putih, ayam_bakar, teh_hangat
+nasi_putih, sayur_campur, jamur, air_putih
+nasi_putih, mie_goreng, nugget_ayam, es_teh
+nasi_goreng, air_putih
+nasi_putih, ayam_goreng, sayur_bayam, air_putih
+nasi_putih, tempe_bakar, telur_bakar, es_teh
+nasi_putih, telur_bakar, tempe_bakar, tahu_bakar, es_teh
+mie_goreng, telur_goreng
+cap_cay, es_teh
+ta_mie, es_teh
+nasi_putih, ayam_goreng, tempe_goreng, es_teh
+nasi_putih, lele_goreng, tempe_goreng, es_teh
+nasi_putih, pecel, telur_goreng, tahu_goreng, es_teh
+nasi_putih, pecel, jamur, air_putih
+bakso, lontong, tahu, es_teh, mie
+bakso, tahu, mie, es_teh
+mie_ayam, es_teh
+nasi_putih, sayur_asam, tempe_goreng, air_putih
+nasi_putih, mie_goreng, ayam_goreng, es_teh
+lontong, tahu, telur
+nasi_putih, soto, kerupuk, teh_hangat
+nasi_putih, ayam_goreng, es_teh
+nasi_putih, soto, jeroan, es_teh
+mie_goreng, telur_goreng
+nasi_putih, lele_goreng, lalapan, es_teh
+nasi_goreng, telur_goreng
+mie_goreng, nasi
+nasi_goreng, telor_dadar, kerupuk, es_teh
+nasi_goreng, telor_ceplok, kerupuk, es_teh
+nasi_pecel, dadar_jagung, usus_goreng, peyek, es_teh
+nasi_pecel, ayam, peyek, es_teh
+nasi_putih, mie_goreng, kerupuk, air_putih
+nasi_putih, soto_ayam, kerupuk, es_teh
+nasi_putih, rendang, sayur, sambal_ijo, air_putih
+nasi_putih, tahu, tempe, udang_goreng, es_teh
+nasi_putih, ikan_panggangan, tahu, tempe, es_teh
+tahu_tek, air_putih
+nasi_putih, sayur_lodeh, ayam_goreng, air_putih
+nasi_putih, ayam_goreng, sayur, es_teh
+nasi_putih, tahu, tempe, telur_goreng, es_teh
+nasi_putih, telur_dadar, sayur, rendang, air_putih
+nasi_putih, mie_krengsengan, kerupuk, air_putih
+nai_goreng, air_putih
+mie_ayam, usus_goreng, pangsit, es_cao
+
+
+
