@@ -12,13 +12,13 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 ## Exercise 7 Big Data 2017
 
 ### 5113100146  Kevin Zulkarnain Yuseti
-1. <br>
-2. <br>
+1. (Twitter) <br>
+2. (Structured) <br>
 
 ### 5113100186  Anugerah Yulindra Satyaji
-1. https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1709546098649715/2512699858570610/6838353924709274/latest.html<br> 
-2. https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1709546098649715/2512699858570589/6838353924709274/latest.html <br>
+1. https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1709546098649715/2512699858570610/6838353924709274/latest.html (Twitter) <br> 
+2. https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1709546098649715/2512699858570589/6838353924709274/latest.html (Structured) <br>
 
 ### 5113100194  Eko Putro Fitrianto <br>
-1. <br> 
-2. <br>
+1. (Twitter) <br> 
+2. (Structured) <br>
