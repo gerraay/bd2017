@@ -14,8 +14,9 @@
 
 ## Exercise 7 Big Data 2017
 
-5113100146  Kevin Zulkarnain Yuseti:  <br>
+5113100146  Kevin Zulkarnain Yuseti  <br>
 
-5113100186  Anugerah Yulindra Satyaji: <br>
+5113100186  Anugerah Yulindra Satyaji <br>
+Structured Streaming: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1709546098649715/2512699858570589/6838353924709274/latest.html <br>
 
-5113100194  Eko Putro Fitrianto: <br>
+5113100194  Eko Putro Fitrianto <br>
